@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Chandini V</h1>
+<h1 align="center">Chandini V</h1>
 <h3 align="center">Aspiring Data Analyst & AI/ML Enthusiast | Turning Data into Decisions</h3>
 
 <p align="center">
