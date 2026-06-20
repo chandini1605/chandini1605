@@ -112,6 +112,8 @@
 ### 🩺 Health Risk Predictor (ML Web App)
 Predicts a health risk score from lifestyle & demographic data using Gradient Boosting (R² = 0.998), deployed live on Hugging Face.
 **Tech Stack:** Python • Pandas • Scikit-learn • Gradio
+
+
 **Link:** [huggingface.co/spaces/Chandini2004/Health_risk_predictor](https://huggingface.co/spaces/Chandini2004/Health_risk_predictor)
 
 ---
@@ -119,6 +121,8 @@ Predicts a health risk score from lifestyle & demographic data using Gradient Bo
 ### 💼 Job Role Recommender (NLP-based ML Web App)
 Analyzes resumes and recommends matching job roles using TF-IDF + Logistic Regression (99.5% accuracy) with skill-gap analysis.
 **Tech Stack:** Python • TF-IDF • Logistic Regression • Gradio
+
+
 **Link:** [github.com/chandini1605/Job-Reccomendor-System](https://github.com/chandini1605/Job-Reccomendor-System)
 
 ---
@@ -126,6 +130,8 @@ Analyzes resumes and recommends matching job roles using TF-IDF + Logistic Regre
 ### 📊 KPI Analytics Dashboard – Finance
 Interactive Power BI dashboard tracking sales, targets, variance, and YTD performance using DAX and data modeling.
 **Tech Stack:** Power BI • DAX • Data Modeling
+
+
 **Link:** [github.com/chandini1605/KPI-Analytics-Dashboard-Finance](https://github.com/chandini1605/KPI-Analytics-Dashboard-Finance)
 
 ---
@@ -133,6 +139,8 @@ Interactive Power BI dashboard tracking sales, targets, variance, and YTD perfor
 ### ☎️ Call Center Analysis Dashboard
 Visualizes call volume, response time, and customer interaction metrics to improve operational efficiency.
 **Tech Stack:** Power BI • DAX • Data Visualization
+
+
 **Link:** [github.com/chandini1605/Call-Center-Analysis-Using-POWERBI](https://github.com/chandini1605/Call-Center-Analysis-Using-POWERBI)
 
 ---
@@ -140,6 +148,8 @@ Visualizes call volume, response time, and customer interaction metrics to impro
 ### 🛒 Sales ETL Analysis Dashboard
 ETL pipeline that extracts, transforms, and loads retail sales data into region-wise and time-based business insights.
 **Tech Stack:** Python • SQL • Excel
+
+
 **Link:** [github.com/chandini1605/sales-ETL-analysis-dashboard](https://github.com/chandini1605/sales-ETL-analysis-dashboard)
 
 
