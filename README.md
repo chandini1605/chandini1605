@@ -1,45 +1,40 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=gradient&customColorList=12,18,24&text=Chandini%20V&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Data%20Analyst%20%7C%20AI%2FML%20Enthusiast&descAlignY=62&descColor=e0e0e0" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&customColorList=12,18,24&text=Chandini%20V&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Data%20Analyst%20%7C%20AI%2FML%20Enthusiast&descAlignY=62&descColor=e0e0e0" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=2EC4B6&center=true&vCenter=true&width=900&lines=Building+dashboards+that+tell+a+story;Python+%2B+SQL+%2B+Power+BI+%2B+Machine+Learning;Final+Year+CSE+Student+%40+GPREC;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-2EC4B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Domain-Data%20%26%20AI-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Year-2026%20Graduate-FFB400?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-1B3A6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-Data%20%26%20AI-1B3A6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Year-2026%20Graduate-1B3A6B?style=for-the-badge" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-```yaml
-Name: Chandini V
-Role: Aspiring Data Analyst & AI/ML Enthusiast
+> 🎯 **Final-year CSE student** pursuing roles in **Data Analytics** and **AI/ML**
+> 📊 Building **end-to-end solutions** — from raw data to deployed models
+> 🧩 Comfortable across the full stack: **EDA → ML → Dashboards**
 
-Specializations:
-  - Data Analytics
-  - Business Intelligence (Power BI)
-  - Machine Learning
-  - Natural Language Processing
-  - ETL Pipelines
-  - Data Visualization
-
-Mission:
-  Turning raw data into clear, actionable insights that drive decisions.
-```
+| | |
+|---|---|
+| 👩‍💻 **Name** | Chandini V |
+| 🎓 **Role** | Aspiring Data Analyst & AI/ML Enthusiast |
+| 🧠 **Focus Areas** | Data Analytics, BI (Power BI), Machine Learning, NLP, ETL, Visualization |
+| 🚀 **Mission** | Turning raw data into clear, actionable insights that drive decisions |
 
 ---
 
 ## 🎯 Current Focus
 
 🟢 Building end-to-end Machine Learning web apps
-🟢 Designing interactive Power BI dashboards with DAX
-🟢 Exploring NLP for resume & text analysis
-🟢 Strengthening SQL & ETL pipeline skills
-🟢 Applying for Data Analyst / AI-ML entry-level roles
-🟢 Continuous learning & portfolio building
+<br>🟢 Designing interactive Power BI dashboards with DAX
+<br>🟢 Exploring NLP for resume & text analysis
+<br>🟢 Strengthening SQL & ETL pipeline skills
+<br>🟢 Applying for Data Analyst / AI-ML entry-level roles
+<br>🟢 Continuous learning & portfolio building
 
 ---
 
@@ -51,6 +46,8 @@ Mission:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-512BD4?style=for-the-badge&logo=openai&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -105,34 +102,43 @@ Mission:
 ## 🚀 Featured Projects
 
 ### 🩺 Health Risk Predictor (ML Web App)
-End-to-end regression pipeline predicting health risk score from lifestyle and demographic features, comparing Linear Regression, Random Forest, and Gradient Boosting (R² = 0.998).
-**Tech:** Python • Pandas • Scikit-learn • Gradient Boosting • Gradio
-**Live Demo:** [huggingface.co/spaces/Chandini2004/Health_risk_predictor](https://huggingface.co/spaces/Chandini2004/Health_risk_predictor)
+Predicts a health risk score from lifestyle & demographic data using Gradient Boosting (R² = 0.998), deployed live on Hugging Face.
+**Tools:** Python • Pandas • Scikit-learn • Gradio
+**Demo:** [huggingface.co/spaces/Chandini2004/Health_risk_predictor](https://huggingface.co/spaces/Chandini2004/Health_risk_predictor)
 
 ---
 
 ### 💼 Job Role Recommender (NLP-based ML Web App)
-NLP system that analyzes resumes (PDF/DOCX/TXT) and recommends top matching job roles with calibrated match percentages, using TF-IDF + Logistic Regression (99.5% accuracy) and skill-gap analysis.
-**Tech:** Python • TF-IDF • Logistic Regression • NLP • Gradio
-**Live Demo:** [huggingface.co/spaces/Chandini2004/Job-Role-Recommender](https://huggingface.co/spaces/Chandini2004/Job-Role-Recommender)
+Analyzes resumes and recommends matching job roles using TF-IDF + Logistic Regression (99.5% accuracy) with skill-gap analysis.
+**Tools:** Python • TF-IDF • Logistic Regression • Gradio
+**Repo:** [github.com/chandini1605/Job-Reccomendor-System](https://github.com/chandini1605/Job-Reccomendor-System) • **Demo:** [huggingface.co/spaces/Chandini2004/Job-Role-Recommender](https://huggingface.co/spaces/Chandini2004/Job-Role-Recommender)
 
 ---
 
 ### 📊 KPI Analytics Dashboard – Finance
-Interactive financial dashboard tracking KPIs including sales, targets, variance, and YTD performance using DAX, data modeling, and advanced visualizations.
-**Tech:** Power BI • DAX • Data Modeling
+Interactive Power BI dashboard tracking sales, targets, variance, and YTD performance using DAX and data modeling.
+**Tools:** Power BI • DAX • Data Modeling
 
 ---
 
 ### ☎️ Call Center Analysis Dashboard
-Analyzed call center performance metrics including call volume, response time, and customer interactions to improve operational efficiency.
-**Tech:** Power BI • DAX • Data Visualization
+Visualizes call volume, response time, and customer interaction metrics to improve operational efficiency.
+**Tools:** Power BI • DAX • Data Visualization
+**Repo:** [github.com/chandini1605/Call-Center-Analysis-Using-POWERBI](https://github.com/chandini1605/Call-Center-Analysis-Using-POWERBI)
 
 ---
 
 ### 🛒 Sales ETL Analysis Dashboard
-Engineered an ETL pipeline to extract, transform, and load retail sales data, delivering region-wise and time-based business insights.
-**Tech:** Python • SQL • Excel
+ETL pipeline that extracts, transforms, and loads retail sales data into region-wise and time-based business insights.
+**Tools:** Python • SQL • Excel
+**Repo:** [github.com/chandini1605/sales-ETL-analysis-dashboard](https://github.com/chandini1605/sales-ETL-analysis-dashboard)
+
+---
+
+### 🕵️ Fraud Detection (EDA)
+Identifies fraudulent transactions by analyzing mismatches between transaction amounts and account balance changes.
+**Tools:** Python • Pandas • EDA
+**Repo:** [github.com/chandini1605/Fraud-Detection_EDA](https://github.com/chandini1605/Fraud-Detection_EDA)
 
 ---
 
@@ -168,11 +174,11 @@ Engineered an ETL pipeline to extract, transform, and load retail sales data, de
 ## 🏆 Professional Strengths
 
 ✅ Data Analysis & EDA
-✅ ETL Pipeline Development
-✅ Power BI Dashboarding
-✅ Machine Learning Model Building
-✅ NLP-based Application Development
-✅ Cross-functional Team Leadership
+<br>✅ ETL Pipeline Development
+<br>✅ Power BI Dashboarding
+<br>✅ Machine Learning Model Building
+<br>✅ NLP-based Application Development
+<br>✅ Cross-functional Team Leadership
 
 ---
 
@@ -200,5 +206,3 @@ Engineered an ETL pipeline to extract, transform, and load retail sales data, de
 ---
 
 <p align="center"><i>💡 One dataset, one dashboard, one insight at a time.</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=gradient&customColorList=24,18,12&section=footer" />
