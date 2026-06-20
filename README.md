@@ -1,15 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:58A6FF&text=Chandini%20Kumar%20S&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=gradient&customColorList=12,18,24&text=Chandini%20V&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Data%20Analyst%20%7C%20AI%2FML%20Enthusiast&descAlignY=62&descColor=e0e0e0" />
 
-# 📊 Data Analyst • AI/ML Enthusiast • Power BI & Python Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=2EC4B6&center=true&vCenter=true&width=900&lines=Building+dashboards+that+tell+a+story;Python+%2B+SQL+%2B+Power+BI+%2B+Machine+Learning;Final+Year+CSE+Student+%40+GPREC;Always+learning%2C+always+building" alt="Typing SVG" />
+</p>
 
-### Building Data-Driven Solutions • Machine Learning Applications • Business Intelligence Dashboards
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Data+Analyst+%7C+AI%2FML+Enthusiast;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Turning+Raw+Data+into+Actionable+Insights;Final+Year+CSE+Student+%40+GPREC)](https://git.io/typing-svg)
-
-[![Open To Opportunities](https://img.shields.io/badge/Open%20To-Opportunities-success?style=for-the-badge)](mailto:chandiniv162004@gmail.com)
-[![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-blue?style=for-the-badge)](#)
-[![Specialization](https://img.shields.io/badge/Specialization-Power%20BI%20%26%20ML-orange?style=for-the-badge)](#)
-[![Status](https://img.shields.io/badge/Status-Final%20Year%20Student-yellow?style=for-the-badge)](#)
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-2EC4B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-Data%20%26%20AI-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Year-2026%20Graduate-FFB400?style=for-the-badge" />
+</p>
 
 ---
 
@@ -55,6 +54,7 @@ Mission:
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
@@ -199,6 +199,6 @@ Engineered an ETL pipeline to extract, transform, and load retail sales data, de
 
 ---
 
-### 💡 Turning Data Into Decisions, One Dashboard at a Time
+<p align="center"><i>💡 One dataset, one dashboard, one insight at a time.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,100:0D1117&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=gradient&customColorList=24,18,12&section=footer" />
