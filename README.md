@@ -14,16 +14,24 @@
 
 ## 💫 About Me
 
-> 🎯 **Final-year CSE student** pursuing roles in **Data Analytics** and **AI/ML**
-> 📊 Building **end-to-end solutions** — from raw data to deployed models
-> 🧩 Comfortable across the full stack: **EDA → ML → Dashboards**
-
-| | |
-|---|---|
-| 👩‍💻 **Name** | Chandini V |
-| 🎓 **Role** | Aspiring Data Analyst & AI/ML Enthusiast |
-| 🧠 **Focus Areas** | Data Analytics, BI (Power BI), Machine Learning, NLP, ETL, Visualization |
-| 🚀 **Mission** | Turning raw data into clear, actionable insights that drive decisions |
+<table>
+<tr>
+<td width="60">🎯</td>
+<td>Final-year <b>CSE student</b> pursuing roles in <b>Data Analytics</b> and <b>AI/ML</b></td>
+</tr>
+<tr>
+<td>📊</td>
+<td>Building <b>end-to-end data solutions</b> — from raw data to deployed dashboards & models</td>
+</tr>
+<tr>
+<td>🧰</td>
+<td>Core toolkit: <b>Python · SQL · Power BI · Scikit-learn</b></td>
+</tr>
+<tr>
+<td>🚀</td>
+<td>Mission: <i>turning raw data into clear, actionable insights that drive decisions</i></td>
+</tr>
+</table>
 
 ---
 
@@ -103,42 +111,38 @@
 
 ### 🩺 Health Risk Predictor (ML Web App)
 Predicts a health risk score from lifestyle & demographic data using Gradient Boosting (R² = 0.998), deployed live on Hugging Face.
-**Tools:** Python • Pandas • Scikit-learn • Gradio
-**Demo:** [huggingface.co/spaces/Chandini2004/Health_risk_predictor](https://huggingface.co/spaces/Chandini2004/Health_risk_predictor)
+**Tech Stack:** Python • Pandas • Scikit-learn • Gradio
+**Link:** [huggingface.co/spaces/Chandini2004/Health_risk_predictor](https://huggingface.co/spaces/Chandini2004/Health_risk_predictor)
 
 ---
 
 ### 💼 Job Role Recommender (NLP-based ML Web App)
 Analyzes resumes and recommends matching job roles using TF-IDF + Logistic Regression (99.5% accuracy) with skill-gap analysis.
-**Tools:** Python • TF-IDF • Logistic Regression • Gradio
-**Repo:** [github.com/chandini1605/Job-Reccomendor-System](https://github.com/chandini1605/Job-Reccomendor-System) • **Demo:** [huggingface.co/spaces/Chandini2004/Job-Role-Recommender](https://huggingface.co/spaces/Chandini2004/Job-Role-Recommender)
+**Tech Stack:** Python • TF-IDF • Logistic Regression • Gradio
+**Link:** [github.com/chandini1605/Job-Reccomendor-System](https://github.com/chandini1605/Job-Reccomendor-System)
 
 ---
 
 ### 📊 KPI Analytics Dashboard – Finance
 Interactive Power BI dashboard tracking sales, targets, variance, and YTD performance using DAX and data modeling.
-**Tools:** Power BI • DAX • Data Modeling
+**Tech Stack:** Power BI • DAX • Data Modeling
+**Link:** [github.com/chandini1605/KPI-Analytics-Dashboard-Finance](https://github.com/chandini1605/KPI-Analytics-Dashboard-Finance)
 
 ---
 
 ### ☎️ Call Center Analysis Dashboard
 Visualizes call volume, response time, and customer interaction metrics to improve operational efficiency.
-**Tools:** Power BI • DAX • Data Visualization
-**Repo:** [github.com/chandini1605/Call-Center-Analysis-Using-POWERBI](https://github.com/chandini1605/Call-Center-Analysis-Using-POWERBI)
+**Tech Stack:** Power BI • DAX • Data Visualization
+**Link:** [github.com/chandini1605/Call-Center-Analysis-Using-POWERBI](https://github.com/chandini1605/Call-Center-Analysis-Using-POWERBI)
 
 ---
 
 ### 🛒 Sales ETL Analysis Dashboard
 ETL pipeline that extracts, transforms, and loads retail sales data into region-wise and time-based business insights.
-**Tools:** Python • SQL • Excel
-**Repo:** [github.com/chandini1605/sales-ETL-analysis-dashboard](https://github.com/chandini1605/sales-ETL-analysis-dashboard)
+**Tech Stack:** Python • SQL • Excel
+**Link:** [github.com/chandini1605/sales-ETL-analysis-dashboard](https://github.com/chandini1605/sales-ETL-analysis-dashboard)
 
----
 
-### 🕵️ Fraud Detection (EDA)
-Identifies fraudulent transactions by analyzing mismatches between transaction amounts and account balance changes.
-**Tools:** Python • Pandas • EDA
-**Repo:** [github.com/chandini1605/Fraud-Detection_EDA](https://github.com/chandini1605/Fraud-Detection_EDA)
 
 ---
 
