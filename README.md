@@ -111,6 +111,7 @@
 
 ### 🩺 Health Risk Predictor (ML Web App)
 Predicts a health risk score from lifestyle & demographic data using Gradient Boosting (R² = 0.998), deployed live on Hugging Face.
+
 **Tech Stack:** Python • Pandas • Scikit-learn • Gradio
 
 
@@ -120,6 +121,7 @@ Predicts a health risk score from lifestyle & demographic data using Gradient Bo
 
 ### 💼 Job Role Recommender (NLP-based ML Web App)
 Analyzes resumes and recommends matching job roles using TF-IDF + Logistic Regression (99.5% accuracy) with skill-gap analysis.
+
 **Tech Stack:** Python • TF-IDF • Logistic Regression • Gradio
 
 
@@ -129,6 +131,7 @@ Analyzes resumes and recommends matching job roles using TF-IDF + Logistic Regre
 
 ### 📊 KPI Analytics Dashboard – Finance
 Interactive Power BI dashboard tracking sales, targets, variance, and YTD performance using DAX and data modeling.
+
 **Tech Stack:** Power BI • DAX • Data Modeling
 
 
@@ -138,6 +141,7 @@ Interactive Power BI dashboard tracking sales, targets, variance, and YTD perfor
 
 ### ☎️ Call Center Analysis Dashboard
 Visualizes call volume, response time, and customer interaction metrics to improve operational efficiency.
+
 **Tech Stack:** Power BI • DAX • Data Visualization
 
 
@@ -147,6 +151,7 @@ Visualizes call volume, response time, and customer interaction metrics to impro
 
 ### 🛒 Sales ETL Analysis Dashboard
 ETL pipeline that extracts, transforms, and loads retail sales data into region-wise and time-based business insights.
+
 **Tech Stack:** Python • SQL • Excel
 
 
